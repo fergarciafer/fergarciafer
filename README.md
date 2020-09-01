@@ -17,6 +17,7 @@ I'm a data professional, always teaching or learning something.
 [<img align="left" alt="fernandomartingarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="asteriscomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
+<br />
 
 <!--
 **fergarciafer/fergarciafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
