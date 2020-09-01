@@ -10,15 +10,11 @@ I'm a data professional, always teaching or learning something.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<!--
 [<img align="left" alt="asteriscomas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="channel/UCLnBUirMKBZ_4s8tTQyQuvg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="asteriscomas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="asteriscoomas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fernandomartingarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="asteriscomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
 
 
 <!--
@@ -37,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 [website]: https://asteriscomas.onrender.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/asteriscoomas
+[youtube]: https://youtube.com/channel/UCLnBUirMKBZ_4s8tTQyQuvg
+[instagram]: https://instagram.com/asteriscomas
+[linkedin]: https://linkedin.com/in/fernandomartingarcia
