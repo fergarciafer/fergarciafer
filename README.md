@@ -1,6 +1,6 @@
 ### Hi there, I'm Fernando 👋
 
-I'm a data professional, always teaching or learning something.
+I'm a data professional, always teaching and learning something.
 
 - 🔭 I’m currently working on my new Udemy courses about SQL and regular expressions.
 - 🌱 I’m currently learning SQLite and Jupyter notebooks.
