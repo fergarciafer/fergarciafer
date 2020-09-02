@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/channel/UCLnBUirMKBZ_4s8tTQyQuvg
 [instagram]: https://instagram.com/asteriscomas
 [linkedin]: https://linkedin.com/in/fernandomartingarcia
-[linkedin]: https://www.udemy.com/user/fernando-garcia-34/
+[udemy]: https://www.udemy.com/user/fernando-garcia-34/
