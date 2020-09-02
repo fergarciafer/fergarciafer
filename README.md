@@ -14,7 +14,8 @@ I'm a data professional, always teaching and learning something.
 [<img align="left" alt="asteriscomas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="asteriscoomas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fernandomartingarcia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="asteriscomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][instagram]
+[<img align="left" alt="asteriscomas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="fernandogarcia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy]
 
 
 <!--
@@ -37,3 +38,4 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/channel/UCLnBUirMKBZ_4s8tTQyQuvg
 [instagram]: https://instagram.com/asteriscomas
 [linkedin]: https://linkedin.com/in/fernandomartingarcia
+[linkedin]: https://www.udemy.com/user/fernando-garcia-34/
